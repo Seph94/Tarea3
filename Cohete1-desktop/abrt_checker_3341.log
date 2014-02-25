@@ -1,0 +1,5 @@
+Uncaught java.lang.Error exception in thread "main" in a method com.me.mygdxgame.Main.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	MyGdxGame cannot be resolved to a type
+
+	at com.me.mygdxgame.Main.main(Main.java:14) [file:/home/alumno/Tarea_3/Cohete1-desktop/bin/com/me/mygdxgame/Main.class]
